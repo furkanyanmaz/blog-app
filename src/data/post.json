@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id":1,
+    "postTitle":"ReactJS nedir ?",
+    "postText":"ReactJS, ya da React.js, kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısı. Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan ReactJS, Model-View-Controller prensibine uygun olarak oluşturulmuştur",
+    "postAuthor":"Furkan YANMAZ",
+    "postImage":"react.png",
+    "slug":"reactjs-nedir",
+    "category":"JavaScript"
+    },
+    {
+      "id":2,
+      "postTitle":"React native nedir ?",
+      "postText":"React Native, Facebook tarafından oluşturulan açık kaynaklı bir mobil uygulama çerçevesidir. Geliştiricilerin React'i yerel platform yetenekleriyle birlikte kullanmasını sağlayarak Android, iOS, Web ve UWP için uygulamalar geliştirmek için kullanılır. Qt için eksik bir bağlantı noktası da var.",
+      "postAuthor":"Furkan YANMAZ",
+      "postImage":"react-native.jpg",
+      "slug":"react-native-nedir",
+      "category":"JavaScript"
+    },
+    {
+      "id":3,
+      "postTitle":"Php nedir ?",
+      "postText":"PHP: Hypertext Preprocessor, internet için üretilmiş, sunucu taraflı, çok geniş kullanımlı, genel amaçlı, içerisine HTML gömülebilen betik ve programlama dilidir. İlk kez 1995 yılında Rasmus Lerdorf tarafından yaratılan PHP'nin geliştirilmesi bugün PHP topluluğu tarafından sürdürülmektedir.",
+      "postAuthor":"Alican CELIK",
+      "postImage":"php.jpg",
+      "slug":"reactjs-nedir",
+      "category":"Php"
+    },
+    {
+      "id":4,
+      "postTitle":"Ruby nedir ?",
+      "postText":"Ruby, nesneye yönelik, dinamik, reflektif ve esnek bir programlama dilidir. Ruby dili, Yukihiro Matsumoto tarafından Japonya'da tasarlanmaya ve geliştirilmeye başlanmıştır",
+      "postAuthor":"Muska ALLANCHE",
+      "postImage":"ruby.jpg",
+      "slug":"ruby-nedir",
+      "category":"Ruby"
+
+    }
+  ]
+}
